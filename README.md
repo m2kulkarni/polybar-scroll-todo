@@ -8,7 +8,7 @@
 3. vim
 
 ### How it works
-1. mod+g opens a vim [scratchpad](todo_scratchpad.sh), tasks are added on a new line
+1. mod+g opens a vim [scratchpad](todo-scratchpad.sh), tasks are added on a new line
 2. get_todo.sh converts tasks into an array
 3. scroll_todo.sh uses zscroll to scroll the first todo on polybar
 4.  and  can be used to see previous or next todo
